@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cyborg_v.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
